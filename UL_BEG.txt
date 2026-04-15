@@ -1,0 +1,2 @@
+Unsupervised learning is like sorting toys into groups. Imagine you have a big pile of toys and you start grouping them by similarities—cars together, dolls together, and blocks together.
+The computer does something similar. It looks at data and tries to find patterns or groups without being told the answers first.

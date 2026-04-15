@@ -1,0 +1,2 @@
+A CNN helps computers understand pictures. Imagine looking at a photo and trying to find a cat. You might first notice the ears, the eyes, or the whiskers.
+A CNN works in a similar way. It looks at small parts of an image and learns patterns like edges and shapes. After learning many patterns, it can recognize things like animals, cars, or people.

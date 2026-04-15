@@ -1,0 +1,2 @@
+Reinforcement Learning is a type of machine learning where an agent learns by interacting with an environment. Instead of being given the correct answers, the agent performs actions and receives rewards or penalties based on the results.
+Over time, the system learns which actions lead to the highest rewards and improves its strategy. Reinforcement learning is used in robotics, game-playing AI, and autonomous systems.

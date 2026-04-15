@@ -1,0 +1,2 @@
+Convolutional Neural Networks (CNNs) are a type of deep learning model designed to process images. They work by scanning small sections of an image and detecting patterns such as edges, textures, and shapes.
+

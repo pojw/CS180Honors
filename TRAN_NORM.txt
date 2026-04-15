@@ -1,0 +1,2 @@
+Generative AI refers to artificial intelligence systems that can create new content such as text, images, music, or code. These systems learn patterns from large datasets and then generate new outputs that resemble the training data.
+Many modern generative AI systems are built using Transformer models, which are designed to understand relationships between words in a sentence. Transformers allow AI models to process large amounts of text and generate meaningful responses.

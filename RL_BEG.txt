@@ -1,0 +1,2 @@
+Reinforcement learning is like training a dog. When a dog sits when you say “sit,” you give it a treat. If it does something wrong, it doesn’t get a treat. Over time, the dog learns which actions get rewards.
+Computers can learn the same way. An AI tries different actions, and when it does something good it gets a “reward.” After many tries, the AI learns the best actions to take.

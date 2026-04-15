@@ -1,0 +1,2 @@
+Supervised Learning is a machine learning method where models are trained using labeled data. Each training example includes both the input and the correct output.
+By studying many labeled examples, the model learns patterns that allow it to make predictions on new data. This approach is used in applications such as spam detection, speech recognition, and image classification.

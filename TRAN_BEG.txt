@@ -1,0 +1,2 @@
+Generative AI is like a super smart storyteller. If it reads lots of stories, it can learn how stories are written and then create its own new story.
+Transformers are a special kind of technology that helps the AI understand how words connect to each other in a sentence. This helps it write better sentences and understand language more clearly.

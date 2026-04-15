@@ -1,0 +1,2 @@
+Supervised learning is like studying with an answer key. Imagine doing homework where the teacher already shows you the correct answers. By looking at the answers, you learn how to solve similar problems.
+Computers can learn this way too. They are given examples with the correct answers so they can learn how to make predictions on new problems.
